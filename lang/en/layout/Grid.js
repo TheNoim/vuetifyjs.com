@@ -71,6 +71,10 @@ export default {
     tags: {
       header: 'Html tags',
       desc: 'Sometimes you will want to specify a layout item as a specific tag, such as a `section` or `li` element.'
+    },
+    demo: {
+      header: 'Visual representation of the layout system',
+      desc: 'An interactive demo of the layout system.'
     }
   }],
   props: {
