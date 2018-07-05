@@ -1,0 +1,32 @@
+[
+  {
+    "name": "English",
+    "locale": "en",
+    "country": "us"
+  },
+  {
+    "name": "Português",
+    "locale": "pt-BR",
+    "country": "br"
+  },
+  {
+    "name": "Русский",
+    "locale": "ru",
+    "country": "ru"
+  },
+  {
+    "name": "简体中文",
+    "locale": "zh-Hans",
+    "country": "cn"
+  },
+  {
+    "name": "한국어",
+    "locale": "ko",
+    "country": "kr"
+  },
+  {
+    "name": "日本語",
+    "locale": "ja",
+    "country": "jp"
+  }
+]
